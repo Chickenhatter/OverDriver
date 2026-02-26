@@ -1,0 +1,21 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":2,"path":"folders/Objects.yy",},
+    {"name":"Sprite","order":1,"path":"folders/Sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oFlag","order":1,"path":"objects/oFlag/oFlag.yy",},
+    {"name":"oKey","order":5,"path":"objects/oKey/oKey.yy",},
+    {"name":"oNew","order":6,"path":"objects/oNew/oNew.yy",},
+    {"name":"oPlatform","order":2,"path":"objects/oPlatform/oPlatform.yy",},
+    {"name":"oSolid","order":4,"path":"objects/oSolid/oSolid.yy",},
+    {"name":"oSpikes","order":3,"path":"objects/oSpikes/oSpikes.yy",},
+    {"name":"Room2","order":3,"path":"rooms/Room2/Room2.yy",},
+    {"name":"oTrophy","order":6,"path":"sprites/oTrophy/oTrophy.yy",},
+    {"name":"sBack","order":5,"path":"sprites/sBack/sBack.yy",},
+    {"name":"sFlag","order":2,"path":"sprites/sFlag/sFlag.yy",},
+    {"name":"sKey","order":4,"path":"sprites/sKey/sKey.yy",},
+    {"name":"sPlatform","order":1,"path":"sprites/sPlatform/sPlatform.yy",},
+    {"name":"sSpikes","order":3,"path":"sprites/sSpikes/sSpikes.yy",},
+  ],
+}
